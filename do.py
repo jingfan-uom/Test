@@ -16,3 +16,4 @@ if __name__ == "__main__":
     find_a_name(a)
 
 
+print('player 2')
