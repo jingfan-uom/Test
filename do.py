@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
 
 print('player 2')
-print('player 2')
-print('player 2')
-print('player 2')
-print('player 2')
+print('player 3')
+print('player 4')
+print('player 5')
+print('player 6')
