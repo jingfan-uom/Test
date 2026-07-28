@@ -9,6 +9,10 @@ if __name__ == "__main__":
 
         for row in reader:
             print(row)
-        for a in 10:
-            print(a+1)
+
+    def find_a_name(x):
+        print("his name is" , x)
+    a="jingfan"
+    find_a_name(a)
+
 
