@@ -9,4 +9,6 @@ if __name__ == "__main__":
 
         for row in reader:
             print(row)
+        for a in 10:
+            print(a)
 
