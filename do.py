@@ -12,3 +12,5 @@ if __name__ == "__main__":
         for a in 10:
             print(a+1)
 
+print ('hello')
+
