@@ -17,3 +17,7 @@ if __name__ == "__main__":
 
 
 print('player 2')
+print('player 2')
+print('player 2')
+print('player 2')
+print('player 2')
